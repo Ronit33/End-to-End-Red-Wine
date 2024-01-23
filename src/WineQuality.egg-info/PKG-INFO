@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: WineQuality
+Version: 0.0.0
+Summary: Python package for end to end wine quality project
+Home-page: https://github.com/Ronit33/End-to-end-ML-Project
+Author: Ronit33
+Author-email: ronitak33@gmail.com
+Project-URL: Bug Tracker, https://github.com/Ronit33/End-to-end-ML-Project/issues
+License-File: LICENSE
+
+# End-to-End-Red-Wine
+
+```bash
+conda create -n "wineQuality" python=3.8 -y
+```
+
+```bash
+conda activate wineQuality
+```
+
+```bash
+pip install -r requirements.txt
+```
